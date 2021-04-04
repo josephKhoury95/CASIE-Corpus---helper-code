@@ -6,7 +6,7 @@
 #### **library used:** [spaCy](https://spacy.io)
 #### **For more information regarding annotations with spaCy:** [spaCy annotations](https://spacy.io/usage/spacy-101#annotations)
 
-#### **Usage:** This helper code assumes that the data are in a directory as follows (/data/annotation/) and the output will be in a new directory (/data/annotation_j/). Please create the latter directory manually.
+#### **Usage:** This helper code assumes that the data are in a directory as follows (/data/annotation/) and the output will be in a new directory (/data/annotation_j/). Please create the latter directory manually. And the script should be in the same parent directory for both (/data/annotation/) and (/data/annotation_j/).
 
 # **I am citing below the paper and the GitHub code that contains the CASIE corpus:**
 #### Github Code with CASIE corpus: [Ebiquity/CASIE](https://github.com/Ebiquity/CASIE)
